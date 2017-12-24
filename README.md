@@ -1,6 +1,21 @@
+# To Do List
 
-* run web server:
+* Demo
 
- cd /path/to/your/project
+  ![img1]()
+  ![img2]()
+  
+
+* Run Web Server:
+  * Open your terminal
+  * cd /path/to/your/project
  
-  (myvenv) /path/to/your/project$ python manage.py runserver 0.0.0.0:8000
+   (myvenv) /path/to/your/project$ **python manage.py runserver 0.0.0.0:8000**
+   
+  * Open browser to localhost:8000
+
+
+* Project structure
+
+  ![img3]()
+  
