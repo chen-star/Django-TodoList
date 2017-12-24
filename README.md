@@ -2,8 +2,8 @@
 
 ## Demo
 
-  ![img1]()
-  ![img2]()
+  ![img1](https://github.com/chen-star/Django-TodoList/raw/master/img/img1.png)
+  ![img2](https://github.com/chen-star/Django-TodoList/raw/master/img/img2.png)
   
 
 ## Run Web Server:
@@ -17,5 +17,5 @@
 
 ## Project structure
 
-  ![img3]()
+  ![img3](https://github.com/chen-star/Django-TodoList/raw/master/img/img3.png)
   
