@@ -15,7 +15,7 @@
   * Open browser to localhost:8000
 
 
-## Project structure
+## Project Structure
 
   ![img3](https://github.com/chen-star/Django-TodoList/raw/master/img/img3.png)
   
