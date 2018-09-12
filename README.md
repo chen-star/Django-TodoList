@@ -3,7 +3,7 @@
 ## Demo
 
   ![img1](https://github.com/chen-star/Django-TodoList/raw/master/img/img1.png)
-  ![img2](https://github.com/chen-star/Django-TodoList/raw/master/img/img2.png)
+ 
   
 
 ## Run Web Server:
